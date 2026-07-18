@@ -20,5 +20,3 @@ Halaman untuk mencetak laporan obat masuk. Laporan dapat dicetak per hari, per m
 Halaman untuk mengolah data user yang dapat menggunakan aplikasi.
 7. Ubah Password,
 Halaman untuk mengubah password user.
-
-demo : www.indrasatya.com
